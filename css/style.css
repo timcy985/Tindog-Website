@@ -1,0 +1,58 @@
+.homepage {
+    text-align: center;
+    color: white;
+
+
+}
+
+h2 {
+    text-align: center;
+}
+
+.b-box {
+    background-color: blue;
+    margin-top: 2%;
+    margin-right: 2%;
+}
+
+.w-box {
+    background-color: whitesmoke;
+    margin-top: 5%;
+    margin-left:2%;
+}
+
+.hello{
+    margin-top: 2%;
+    margin-left: 7%;
+}
+.pay{
+  margin-left: 12px;  
+}
+
+.p-box{
+    margin-top: 1%;
+}
+
+.y-box {
+    background-color: yellow;
+}
+
+.c-box {
+    background-color: cyan;
+}
+
+.b-code {
+    word-spacing: 2em;
+}
+.g-day{
+margin-top: 2%;
+margin-left: 7%;
+}
+.card-button{
+    width: 100%;
+    box-shadow: none;
+    background-color: red;
+    border: none;
+    color: wheat;
+    border-radius: 2px;
+}
