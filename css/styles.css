@@ -113,6 +113,33 @@ padding: 7% 15%;
     padding: 3% 2%;
     text-align: center;
 }
+
+
+/*---------------------CTA Section----------*/
+#cta{
+     background-color: #ff4c68; 
+     color: #ffffff;
+     padding: 7% 15%;
+     text-align: center;
+}
+.cta-heading{
+    font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+.my-btn{
+     margin: 7% 3% 2% 0%;
+}
+/*--------------Footer Section------------*/
+
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+.social-icon{
+    margin: 20px 10px;
+}
+
 @media (max-width:1020px){
     #title{
         text-align: center;
@@ -121,13 +148,7 @@ padding: 7% 15%;
         position: static;
         transform: rotate(0);
     }
+    .cta-heading{
+        font-size: 2.5rem;
+    }
 }
-
-/*---------------------CTA Section----------*/
-#cta{
-     background-color: #ff4c68; 
-     color: #ffffff;
-     padding: 7% 15%;
-}
-
-
